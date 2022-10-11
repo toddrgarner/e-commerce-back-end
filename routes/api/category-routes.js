@@ -16,6 +16,7 @@ router.get('/', (req, res) => {
         .catch(err => {
           console.log(err);
         });
+
     });
 
 router.get('/:id', (req, res) => {
@@ -99,5 +100,6 @@ router.delete('/:id', (req, res) => {
           res.status(500).json(err);
         });
 });
+
 
 module.exports = router;
