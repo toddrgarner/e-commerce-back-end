@@ -12,6 +12,8 @@
 
 ## E-Commerce Screenshot GIF
 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/110719370/196908785-36162e8b-ba39-402b-bf88-3dc6fa93e018.gif)
+
 ## Github Repository URL:
 
 https://github.com/toddrgarner/e-commerce-back-end
